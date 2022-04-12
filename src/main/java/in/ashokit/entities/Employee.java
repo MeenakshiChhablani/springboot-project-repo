@@ -12,7 +12,7 @@ import lombok.Data;
 @Table(name="EMP_TBL")
 public class Employee {
 
-	
+	int 10;
 public Employee() {
 		System.out.println("EmployeeEntity class constructor");
 	}
